@@ -22,7 +22,7 @@
 **Mobile** Kotlin · Jetpack Compose · Swift · SwiftUI  
 **Web** TypeScript · React / Next.js · Tailwind CSS  
 **Backend / Tools** Ktor · Supabase · Python · GitHub Actions · Docker  
-**AI / NLP** Mobile-friendly Transformers · LOUDS · Kana-Kanji conversion
+**AI / NLP** LOUDS · Kana-Kanji conversion
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -35,8 +35,3 @@
 
 ## 📫 Connect / 連絡先
 [Twitter /X @KazumaN1172](https://twitter.com/KazumaN1172) • [Qiita](https://qiita.com/Kazu_Project)
-
----
-
-> _“Make something people want — and works offline.”_  
-> 「人々が欲しいと思うものを、オフラインでも動く形で。」
